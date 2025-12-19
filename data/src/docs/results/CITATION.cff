@@ -1,1 +1,10 @@
-
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng phần mềm này, vui lòng trích dẫn như sau."
+authors:
+  - family-names: "Tran"
+    given-names: "Vu Khiem"
+    affiliation: "VNPT"
+title: "Nghiên cứu Ứng dụng Công nghệ Phân tán trong An sinh Xã hội"
+version: 1.0.0
+date-released: 2025-12-19
+url: "https://github.com/khiem0707/khiemm2525026_BTH4_YC4"
